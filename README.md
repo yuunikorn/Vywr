@@ -2,8 +2,8 @@
 Let's rip off Netflix Party, but better(?)
 
 ## Functionality
-> should be able to start/pause by imitating the trigger of the spacebar
-> synced timestamp
+- should be able to start/pause by imitating the trigger of the spacebar
+- synced timestamp
 
 ### Getting Started
 https://developer.chrome.com/extensions/getstarted
