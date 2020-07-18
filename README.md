@@ -7,6 +7,7 @@ Let's rip off Netflix Party, but better(?)
 
 ### Getting Started
 https://developer.chrome.com/extensions/getstarted
+https://www.sitepoint.com/create-chrome-extension-10-minutes-flat/
 
 
 ### Netflix time tracking
